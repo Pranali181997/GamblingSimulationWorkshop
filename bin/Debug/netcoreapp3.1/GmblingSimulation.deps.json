@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GmblingSimulation/1.0.0": {
+        "runtime": {
+          "GmblingSimulation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GmblingSimulation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
