@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\GmblingSimulation\obj\Debug\netcoreapp3.1\GmblingSimulation.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\GmblingSimulation\obj\Debug\netcoreapp3.1\GmblingSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\GmblingSimulation\obj\Debug\netcoreapp3.1\GmblingSimulation.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\GmblingSimulation\obj\Debug\netcoreapp3.1\GmblingSimulation.AssemblyInfo.cs
+C:\Users\Admin\source\repos\GmblingSimulation\obj\Debug\netcoreapp3.1\GmblingSimulation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\GmblingSimulation\bin\Debug\netcoreapp3.1\GmblingSimulation.exe
+C:\Users\Admin\source\repos\GmblingSimulation\bin\Debug\netcoreapp3.1\GmblingSimulation.deps.json
+C:\Users\Admin\source\repos\GmblingSimulation\bin\Debug\netcoreapp3.1\GmblingSimulation.runtimeconfig.json
+C:\Users\Admin\source\repos\GmblingSimulation\bin\Debug\netcoreapp3.1\GmblingSimulation.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\GmblingSimulation\bin\Debug\netcoreapp3.1\GmblingSimulation.dll
+C:\Users\Admin\source\repos\GmblingSimulation\bin\Debug\netcoreapp3.1\GmblingSimulation.pdb
+C:\Users\Admin\source\repos\GmblingSimulation\obj\Debug\netcoreapp3.1\GmblingSimulation.dll
+C:\Users\Admin\source\repos\GmblingSimulation\obj\Debug\netcoreapp3.1\GmblingSimulation.pdb
+C:\Users\Admin\source\repos\GmblingSimulation\obj\Debug\netcoreapp3.1\GmblingSimulation.genruntimeconfig.cache
