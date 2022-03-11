@@ -1,4 +1,4 @@
-﻿using GamblingSimulation;
+﻿using GmblingSimulation;
 using System;
 
 namespace GmblingSimulation
@@ -8,8 +8,9 @@ namespace GmblingSimulation
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to GamblingSimulation!");
+            Gabmbling.WinOrLoose();
 
-            WinOrLoose.WinOrLooseGame();
+            Gabmbling.WinOrLooseFiftyPercent();
         }
     }
 }
