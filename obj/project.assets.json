@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\GmblingSimulation\\GmblingSimulation.csproj",
-      "projectName": "GmblingSimulation",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\GmblingSimulation\\GmblingSimulation.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\GmblingSimulation\\GamblingSimulation.csproj",
+      "projectName": "GamblingSimulation",
+      "projectPath": "C:\\Users\\Admin\\source\\repos\\GmblingSimulation\\GamblingSimulation.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Admin\\source\\repos\\GmblingSimulation\\obj\\",
       "projectStyle": "PackageReference",
